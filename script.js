@@ -1,4 +1,9 @@
-const wordToGuess = "HAPPY";
+const wordToGuess = "happy";
+const wordToGuess = "thows";
+const wordToGuess = "pools";
+const wordToGuess = "tails";
+const wordToGuess = "nails";
+const wordToGuess = "trail";
 let attempts = 0;
 
 document.getElementById("guess-button").addEventListener("click", function() {
